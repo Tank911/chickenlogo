@@ -5,4 +5,4 @@ description: "Replaced logo with chicken\nToo much!"
 version: "1.0"
 minGameVersion: "160"
 dependencies: [ ]
-hidden: false
+hidden: true
